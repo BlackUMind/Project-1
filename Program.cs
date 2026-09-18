@@ -12,7 +12,7 @@ namespace code
         {
             for (int i = 0; i < 5; i++)
                 {
-                    Console.WriteLine("Super 4 programm");
+                    Console.WriteLine("Super 2 programm");
                 }               
         }
     }
