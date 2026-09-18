@@ -10,7 +10,10 @@ namespace code
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Super dificult programm");
+            for (int i = 0; i < 5; i++)
+                {
+                    Console.WriteLine("Super dificult programm");
+                }               
         }
     }
 }
